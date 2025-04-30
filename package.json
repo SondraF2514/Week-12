@@ -1,0 +1,24 @@
+{
+  "name": "week-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Week 12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SondraF2514/Week-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SondraF2514/Week-12/issues"
+  },
+  "homepage": "https://github.com/SondraF2514/Week-12#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "jquery": "^3.7.1",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
